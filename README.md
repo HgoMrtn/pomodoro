@@ -11,7 +11,7 @@ It utilizes the Pomodoro Technique, a popular time management method, to improve
 
 ## Getting Started
 
-Go to https://pomodoro.netlify.app
+Go to https://po-mo-doro.netlify.app
 
 ## Coming Soon
 
